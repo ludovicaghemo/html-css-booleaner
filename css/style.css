@@ -7,9 +7,9 @@ h5 {
     color: gray;
 } */
 
-body {
+/* body {
     font-family: Arial, Helvetica, sans-serif;
-}
+} */
 
 
 table {
@@ -18,6 +18,7 @@ table {
 
 thead {
     background-color: rgb(61, 145, 209);
+    color: white;
 }
 
 .blue {
@@ -30,4 +31,22 @@ thead {
 
 .justify {
     text-align: justify;
+}
+
+.picture {
+    width: 400px;
+    height: 200px;
+    background-repeat: no-repeat;
+    text-align: left;
+    
+    color: white; 
+   
+}
+
+.monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+.graph {
+    background-image: url(../img/graph.jpg);
 }
