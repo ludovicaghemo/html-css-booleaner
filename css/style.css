@@ -1,3 +1,15 @@
+header {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(13, 100, 230);
+    height: 200px;
+}
+
+.logo {
+    height: 90px;
+    position: relative;
+    top: 100px;
+}
+
 h5 {
     color: grey;
 }
