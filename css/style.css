@@ -14,15 +14,9 @@ h5 {
     color: grey;
 }
 
-
-/* .article-info {
-    color: gray;
-} */
-
-/* body {
-    font-family: Arial, Helvetica, sans-serif;
-} */
-
+.yellow {
+    background-color: yellow;
+}
 
 table {
     text-align: justify;
