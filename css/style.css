@@ -5,3 +5,20 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+table {
+    text-align: justify;
+}
+
+thead {
+    background-color: rgb(61, 145, 209);
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.white {
+    background-color: white;
+}
+
