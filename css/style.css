@@ -1,10 +1,16 @@
-.article-info {
-    color: gray;
+h5 {
+    color: grey;
 }
+
+
+/* .article-info {
+    color: gray;
+} */
 
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
 
 table {
     text-align: justify;
@@ -22,3 +28,6 @@ thead {
     background-color: white;
 }
 
+.justify {
+    text-align: justify;
+}
